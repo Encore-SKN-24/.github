@@ -1,2 +1,0 @@
-# .github
-index page
