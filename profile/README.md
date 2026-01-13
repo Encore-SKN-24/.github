@@ -20,6 +20,7 @@ class Teacher:
 | Chapter | Repository |
 | ------ | ------ |
 | python | [Python basic lecture sources](https://github.com/Encore-SKN-24/python.git) |
+| database | [SQL lecture sources](https://github.com/Encore-SKN-24/database.git) |
 
 <br><br><br>
 
