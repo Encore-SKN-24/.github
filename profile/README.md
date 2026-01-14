@@ -21,6 +21,7 @@ class Teacher:
 | ------ | ------ |
 | python | [Python basic lecture sources](https://github.com/Encore-SKN-24/python.git) |
 | database | [SQL lecture sources](https://github.com/Encore-SKN-24/database.git) |
+| web crawling | [Web Crawling lecture sources](https://github.com/Encore-SKN-24/web_crawling.git) |
 
 <br><br><br>
 
