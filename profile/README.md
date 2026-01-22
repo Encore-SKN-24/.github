@@ -30,4 +30,4 @@ class Teacher:
 
 | Chapter | Repository |
 | ------ | ------ |
-| - | [-](-) |
+| data analysis | [데이터 분석 실습](https://github.com/Encore-SKN-24/pandas_da_practice.git) |
