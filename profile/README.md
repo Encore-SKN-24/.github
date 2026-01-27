@@ -32,3 +32,4 @@ class Teacher:
 | Chapter | Repository |
 | ------ | ------ |
 | data analysis | [데이터 분석 실습](https://github.com/Encore-SKN-24/pandas_da_practice.git) |
+| EDA mini project | [1TEAM](https://github.com/Encore-SKN-24/EDA_MINI_1TEAM) | [2TEAM](https://github.com/Encore-SKN-24/EDA_MINI_2TEAM) | [3TEAM](https://github.com/Encore-SKN-24/EDA_MINI_3TEAM) | [4TEAM](https://github.com/Encore-SKN-24/EDA_MINI_4TEAM) | [5TEAM](https://github.com/Encore-SKN-24/EDA_MINI_5TEAM) | [6TEAM](https://github.com/Encore-SKN-24/EDA_MINI_6TEAM) |
