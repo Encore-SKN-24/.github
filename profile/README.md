@@ -25,6 +25,7 @@ class Teacher:
 | data analysis | [데이터 분석 주요 패키지 lecture sources](https://github.com/Encore-SKN-24/data_analysis.git) |
 | machine learning | [ML lecture sources](https://github.com/Encore-SKN-24/machine_learning.git) |
 | deep learning | [DL 기초 lecture sources](https://github.com/Encore-SKN-24/deep_learning_basic.git) |
+| nlp | [자연어처리 lecture sources](https://github.com/Encore-SKN-24/deep_learning_nlp.git) |
 
 <br><br><br>
 
