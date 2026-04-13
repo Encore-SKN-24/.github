@@ -28,6 +28,7 @@ class Teacher:
 | nlp | [자연어처리 lecture sources](https://github.com/Encore-SKN-24/deep_learning_nlp.git) |
 | llm | [LLM lecture sources](https://github.com/Encore-SKN-24/large_language_model.git) |
 | multi modal | [CV 및 멀티모달 lecture sources](https://github.com/Encore-SKN-24/multi_modal.git) |
+| front-end | [Front-end lecture sources](https://github.com/Encore-SKN-24/front_end.git) |
 
 <br><br><br>
 
