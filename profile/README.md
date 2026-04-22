@@ -41,3 +41,4 @@ class Teacher:
 | EDA mini project | [1TEAM](https://github.com/Encore-SKN-24/EDA_MINI_1TEAM) / [2TEAM](https://github.com/Encore-SKN-24/EDA_MINI_2TEAM) / [3TEAM](https://github.com/Encore-SKN-24/EDA_MINI_3TEAM) / [4TEAM](https://github.com/Encore-SKN-24/EDA_MINI_4TEAM) / [5TEAM](https://github.com/Encore-SKN-24/EDA_MINI_5TEAM) / [6TEAM](https://github.com/Encore-SKN-24/EDA_MINI_6TEAM) |
 | ML mini project | [1TEAM](https://github.com/Encore-SKN-24/ML_MINI_1TEAM) / [2TEAM](https://github.com/Encore-SKN-24/ML_MINI_2TEAM) / [3TEAM](https://github.com/Encore-SKN-24/ML_MINI_3TEAM) / [4TEAM](https://github.com/Encore-SKN-24/ML_MINI_4TEAM) / [5TEAM](https://github.com/Encore-SKN-24/ML_MINI_5TEAM) / [6TEAM](https://github.com/Encore-SKN-24/ML_MINI_6TEAM) |
 | DL NLP | [자연어 처리 실습 가이드](https://github.com/Encore-SKN-24/nlp_practice.git) |
+| Django QnA | [4월 22일의 노오력으로 공부할 것!](https://github.com/Encore-SKN-24/django_qna_project.git) |
